@@ -26,5 +26,6 @@ $ streamlit run stock.py
 ```
 ## Samples
 
-![Alt Text](https://github.com/baburajr/stock-price-app/blob/master/0.png)
+![Alt Text](https://github.com/baburajr/stock-price-app/blob/main/0.png)
+
 
